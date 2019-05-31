@@ -1,0 +1,16 @@
+---
+name: brad's atomic grape tomatoes
+dotw: '["Monday", "Wednesday", "Friday"]'
+food_type: tomato food
+food_day: "[1, 8, 16, 24]"
+is_succ: false
+spec_care: Check for suckers
+spec_care_day: '["Monday"]'
+---
+name: romanesco broccoli
+dotw: '["Monday", "Tuesday", "Wednesday", "Thursday", "Saturday"]'
+food_type: all purpose food
+food_day: "[1, 8, 16, 24]"
+is_succ: false
+spec_care: none
+spec_care_day: '0'
